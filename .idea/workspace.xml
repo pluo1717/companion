@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6133a6d-bc73-481f-9dfa-6c95534518da" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="cluster-intersection-2.0.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cluster-inter/cluster-intersection-2.0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4395">
+              <caret line="293" column="93" lean-forward="true" selection-start-line="293" selection-start-column="93" selection-end-line="293" selection-end-column="93" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pretreat.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pretreat/pretreat.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="12" column="5" selection-start-line="12" selection-end-line="12" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="interp1d.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interp1d/interp1d.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1635">
+              <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_cog.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/add_cog/add_cog.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="28418.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pretreat/common/28418.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="30417.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_data/common/30417.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="get_same_min_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/same_min/get_same_min_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1065">
+              <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>drawbo</find>
+      <find>drawmapboundary</find>
+      <find>fill_color =</find>
+      <find>title</find>
+      <find>scatter</find>
+      <find>dpi</find>
+      <find>lon</find>
+      <find>figu</find>
+      <find>area</find>
+      <find>rsphere</find>
+      <find>figure</find>
+      <find>28418</find>
+      <find>zero</find>
+      <find>plot</find>
+      <find>fig</find>
+      <find>item</find>
+      <find>print</find>
+      <find>00</find>
+      <find>vincenty</find>
+      <find>com_index</find>
+      <find>info</find>
+      <find>cmpn</find>
+      <find>gap</find>
+      <find>time_index</find>
+      <find>36888</find>
+      <find>3700</find>
+      <find>min_dis</find>
+      <find>timequan</find>
+      <find>dfs</find>
+      <find>draw_ids_full</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mrgaodata/csvs_to_csv.py" />
+        <option value="$PROJECT_DIR$/plot_mapdata.py" />
+        <option value="$PROJECT_DIR$/two_two.py" />
+        <option value="$PROJECT_DIR$/my_plot.py" />
+        <option value="$PROJECT_DIR$/上图/my_plot.py" />
+        <option value="$PROJECT_DIR$/1.py" />
+        <option value="$PROJECT_DIR$/geo_dbscan.py" />
+        <option value="$PROJECT_DIR$/上图/csvs_to_csv.py" />
+        <option value="$PROJECT_DIR$/上图/add_colum.py" />
+        <option value="$PROJECT_DIR$/插值/interp1d.py" />
+        <option value="$PROJECT_DIR$/dbscan/BerthDataDbscan.py" />
+        <option value="$PROJECT_DIR$/上图/timestamp.py" />
+        <option value="$PROJECT_DIR$/cluster-inter/clustering-intersection.py" />
+        <option value="$PROJECT_DIR$/test/10198355.csv" />
+        <option value="$PROJECT_DIR$/compare_data/com_data.py" />
+        <option value="$PROJECT_DIR$/cluster-inter/pic_interpid.py" />
+        <option value="$PROJECT_DIR$/上图/get_data.py" />
+        <option value="$PROJECT_DIR$/json_to_csv/json_to_csv.py" />
+        <option value="$PROJECT_DIR$/drawing/draw.py" />
+        <option value="$PROJECT_DIR$/interp1d/test.py" />
+        <option value="$PROJECT_DIR$/interp1d/compare_interp1d.py" />
+        <option value="$PROJECT_DIR$/same_min/same_min/common0101by5/201701010005.csv" />
+        <option value="$PROJECT_DIR$/cluster-inter/my_cluster_intersection.py" />
+        <option value="$PROJECT_DIR$/interp1d/interp1d_2/说明.txt" />
+        <option value="$PROJECT_DIR$/same_min/same_min/common_quadratic_0110_by5/201701100005.csv" />
+        <option value="$PROJECT_DIR$/cluster-inter/test_clu_inter.py" />
+        <option value="$PROJECT_DIR$/上图/plot_mapdata.py" />
+        <option value="$PROJECT_DIR$/cog_sog/cog_sog.py" />
+        <option value="$PROJECT_DIR$/create_test_set/ncut180720/351664000.csv" />
+        <option value="$PROJECT_DIR$/create_test_set/create_test_set.py" />
+        <option value="$PROJECT_DIR$/interp1d/interp1d_2.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/pretreat/pretreat.py" />
+        <option value="$PROJECT_DIR$/interp1d/interp1d.py" />
+        <option value="$PROJECT_DIR$/add_cog/add_cog.py" />
+        <option value="$PROJECT_DIR$/same_min/get_same_min_data.py" />
+        <option value="$PROJECT_DIR$/cluster-inter/cluster-intersection-2.0.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="372" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="companion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="companion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="companion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="companion" type="462c0819:PsiDirectoryNode" />
+              <item name="add_cog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="companion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="companion" type="462c0819:PsiDirectoryNode" />
+              <item name="cluster-inter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="companion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="companion" type="462c0819:PsiDirectoryNode" />
+              <item name="interp1d" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="companion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="companion" type="462c0819:PsiDirectoryNode" />
+              <item name="json_to_csv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="companion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="companion" type="462c0819:PsiDirectoryNode" />
+              <item name="pretreat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="companion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="companion" type="462c0819:PsiDirectoryNode" />
+              <item name="same_min" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="companion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="companion" type="462c0819:PsiDirectoryNode" />
+              <item name="test_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/上图" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.interp1d">
+    <configuration name="add_cog" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="伴随算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/add_cog" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/add_cog/add_cog.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="cluster-intersection-2.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="伴随算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cluster-inter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cluster-inter/cluster-intersection-2.0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="get_same_min_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="伴随算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/same_min" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/same_min/get_same_min_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="interp1d" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="伴随算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interp1d" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interp1d/interp1d.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="my_plot" type="PythonConfigurationType" factoryName="Python">
+      <module name="伴随算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/上图" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/上图/my_plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="pretreat" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="伴随算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pretreat" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pretreat/pretreat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.my_plot" />
+      <item itemvalue="Python.get_same_min_data" />
+      <item itemvalue="Python.cluster-intersection-2.0" />
+      <item itemvalue="Python.pretreat" />
+      <item itemvalue="Python.interp1d" />
+      <item itemvalue="Python.add_cog" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.interp1d" />
+        <item itemvalue="Python.cluster-intersection-2.0" />
+        <item itemvalue="Python.get_same_min_data" />
+        <item itemvalue="Python.add_cog" />
+        <item itemvalue="Python.pretreat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6133a6d-bc73-481f-9dfa-6c95534518da" name="Default" comment="" />
+      <created>1529563255631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529563255631</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22269204" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32948717" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5003524" side_tool="true" weight="0.23076923" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32948717" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49964765" weight="0.23461539" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.16025642" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.21025641" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39871794" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/same_min/same_min/common_quadratic_0110_by5/201701100005.csv" />
+    <entry file="file://$PROJECT_DIR$/cluster-inter/my_cluster_intersection.py" />
+    <entry file="file://$PROJECT_DIR$/same_min/same_min/common_quadratic_0110_by5/201701100045.csv" />
+    <entry file="file://$PROJECT_DIR$/interp1d/interp1d_2/说明.txt" />
+    <entry file="file://$PROJECT_DIR$/cluster-inter/test_clu_inter.py" />
+    <entry file="file://$PROJECT_DIR$/cog_sog/interp1d/common_quadratic/28418.csv" />
+    <entry file="file://$PROJECT_DIR$/same_min/same_min/common0101by5/201701010005.csv" />
+    <entry file="file://$PROJECT_DIR$/same_min/same_min/common0101by5/201701010000.csv" />
+    <entry file="file://$PROJECT_DIR$/上图/plot_mapdata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster-inter/分段伴随图5号45度/0.png" />
+    <entry file="file://$PROJECT_DIR$/cluster-inter/分段伴随图5号45度/4.png" />
+    <entry file="file://$PROJECT_DIR$/cluster-inter/分段伴随图5号45度/8.png" />
+    <entry file="file://$PROJECT_DIR$/create_test_set/common_test/30076.csv" />
+    <entry file="file://$PROJECT_DIR$/interp1d/common/30076.csv" />
+    <entry file="file://$PROJECT_DIR$/same_min/common_0110_0111/201701100020.csv" />
+    <entry file="file://$PROJECT_DIR$/same_min/common_0110_0111/201701100030.csv" />
+    <entry file="file://$PROJECT_DIR$/same_min/common_0110_0111/201701100050.csv" />
+    <entry file="file://$PROJECT_DIR$/same_min/common_0110_0111/201701100320.csv" />
+    <entry file="file://$PROJECT_DIR$/same_min/common_0110_0111/201701101110.csv" />
+    <entry file="file://$PROJECT_DIR$/same_min/common_0110_0111/201701101640.csv" />
+    <entry file="file://$PROJECT_DIR$/same_min/common_0110_0111/201701102305.csv" />
+    <entry file="file://$PROJECT_DIR$/cog_sog/cog_sog.py" />
+    <entry file="file://$PROJECT_DIR$/add_cog/common/30569.csv" />
+    <entry file="file://$PROJECT_DIR$/add_cog/common/28418.csv" />
+    <entry file="file://$PROJECT_DIR$/add_cog/common/30076.csv" />
+    <entry file="file://$PROJECT_DIR$/same_min/common_0110_0111/201701110000.csv" />
+    <entry file="file://$PROJECT_DIR$/ncut180720/351664000.csv" />
+    <entry file="file://$PROJECT_DIR$/create_test_set/ncut180720/351664000.csv" />
+    <entry file="file://$PROJECT_DIR$/interp1d/interp1d_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/same_min/common_0110_0111/201701100005.csv" />
+    <entry file="file://$PROJECT_DIR$/same_min/common_0110_0111/201701100000.csv" />
+    <entry file="file://$PROJECT_DIR$/same_min/ncut180720/201807190005.csv" />
+    <entry file="file://$PROJECT_DIR$/same_min/ncut180720/201807190025.csv" />
+    <entry file="file://$PROJECT_DIR$/same_min/ncut180720/201807190105.csv" />
+    <entry file="file://$PROJECT_DIR$/same_min/ncut180720/201807190255.csv" />
+    <entry file="file://$PROJECT_DIR$/same_min/ncut180720/201807190340.csv" />
+    <entry file="file://$PROJECT_DIR$/same_min/ncut180720/201807190425.csv" />
+    <entry file="file://$PROJECT_DIR$/same_min/ncut180720/201807191020.csv" />
+    <entry file="file://$PROJECT_DIR$/same_min/ncut180720/201807190950.csv" />
+    <entry file="file://$PROJECT_DIR$/same_min/ncut180720/201807190000.csv" />
+    <entry file="file://$PROJECT_DIR$/same_min/ncut180720/201807190010.csv" />
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_cog/ncut180720/356466000.csv" />
+    <entry file="file://$PROJECT_DIR$/create_test_set/create_test_set.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_data/common/30417.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pretreat/common/28418.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pretreat/pretreat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="5" selection-start-line="12" selection-end-line="12" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interp1d/interp1d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1635">
+          <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_cog/add_cog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/same_min/get_same_min_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster-inter/cluster-intersection-2.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4395">
+          <caret line="293" column="93" lean-forward="true" selection-start-line="293" selection-start-column="93" selection-end-line="293" selection-end-column="93" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
